@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HardwareFeatures.iml" filepath="$PROJECT_DIR$/HardwareFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listsensor/listsensor.iml" filepath="$PROJECT_DIR$/listsensor/listsensor.iml" />
+    </modules>
+  </component>
+</project>
