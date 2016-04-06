@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HardwareFeatures.iml" filepath="$PROJECT_DIR$/HardwareFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/listsensor/listsensor.iml" filepath="$PROJECT_DIR$/listsensor/listsensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motionsensor/motionsensor.iml" filepath="$PROJECT_DIR$/motionsensor/motionsensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchbluetoothdevice/searchbluetoothdevice.iml" filepath="$PROJECT_DIR$/searchbluetoothdevice/searchbluetoothdevice.iml" />
     </modules>
   </component>
 </project>
