@@ -1,1 +1,1 @@
-include ':listsensor', ':motionsensor', ':searchbluetoothdevice'
+include ':motionsensor', ':searchbluetoothdevice', ':bluetoothsocket','listsensor'

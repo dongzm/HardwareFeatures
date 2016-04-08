@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
             }else if(BluetoothAdapter.ACTION_DISCOVERY_FINISHED.equals(action)) { //结束搜索
                 setProgressBarVisibility(false);
                 setTitle("扫描完成");
-                //打开蓝牙
+                //关闭蓝牙
                 bluetoothAdapter.disable();
             }
         }
