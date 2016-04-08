@@ -10,7 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alllocactionproviders" />
             <option value="$PROJECT_DIR$/bluetoothsocket" />
+            <option value="$PROJECT_DIR$/criterialocationproviders" />
             <option value="$PROJECT_DIR$/listsensor" />
             <option value="$PROJECT_DIR$/motionsensor" />
             <option value="$PROJECT_DIR$/searchbluetoothdevice" />
