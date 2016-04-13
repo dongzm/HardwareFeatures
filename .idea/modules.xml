@@ -7,8 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/bluetoothsocket/bluetoothsocket.iml" filepath="$PROJECT_DIR$/bluetoothsocket/bluetoothsocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/criterialocationproviders/criterialocationproviders.iml" filepath="$PROJECT_DIR$/criterialocationproviders/criterialocationproviders.iml" />
       <module fileurl="file://$PROJECT_DIR$/listsensor/listsensor.iml" filepath="$PROJECT_DIR$/listsensor/listsensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locationdemo/locationdemo.iml" filepath="$PROJECT_DIR$/locationdemo/locationdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/motionsensor/motionsensor.iml" filepath="$PROJECT_DIR$/motionsensor/motionsensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recordvideo/recordvideo.iml" filepath="$PROJECT_DIR$/recordvideo/recordvideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/searchbluetoothdevice/searchbluetoothdevice.iml" filepath="$PROJECT_DIR$/searchbluetoothdevice/searchbluetoothdevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemcamera/systemcamera.iml" filepath="$PROJECT_DIR$/systemcamera/systemcamera.iml" />
     </modules>
   </component>
 </project>

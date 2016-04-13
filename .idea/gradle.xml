@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:\Android\Android Studio\gradle\gradle-2.8" />
+        <option name="gradleHome" value="E:\Android\Android Studio\gradle\gradle-2.10" />
         <option name="gradleJvm" value="1.7" />
         <option name="modules">
           <set>
@@ -14,8 +14,25 @@
             <option value="$PROJECT_DIR$/bluetoothsocket" />
             <option value="$PROJECT_DIR$/criterialocationproviders" />
             <option value="$PROJECT_DIR$/listsensor" />
+            <option value="$PROJECT_DIR$/locationdemo" />
             <option value="$PROJECT_DIR$/motionsensor" />
+            <option value="$PROJECT_DIR$/recordvideo" />
             <option value="$PROJECT_DIR$/searchbluetoothdevice" />
+            <option value="$PROJECT_DIR$/systemcamera" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alllocactionproviders" />
+            <option value="$PROJECT_DIR$/bluetoothsocket" />
+            <option value="$PROJECT_DIR$/criterialocationproviders" />
+            <option value="$PROJECT_DIR$/listsensor" />
+            <option value="$PROJECT_DIR$/locationdemo" />
+            <option value="$PROJECT_DIR$/motionsensor" />
+            <option value="$PROJECT_DIR$/recordvideo" />
+            <option value="$PROJECT_DIR$/searchbluetoothdevice" />
+            <option value="$PROJECT_DIR$/systemcamera" />
           </set>
         </option>
       </GradleProjectSettings>
