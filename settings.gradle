@@ -1,1 +1,1 @@
-include ':motionsensor', ':searchbluetoothdevice', ':bluetoothsocket', ':alllocactionproviders', ':criterialocationproviders', ':locationdemo', ':systemcamera', ':recordvideo', 'listsensor'
+include ':motionsensor', ':searchbluetoothdevice', ':bluetoothsocket', ':alllocactionproviders', ':criterialocationproviders', ':locationdemo', ':systemcamera', ':recordvideo', ':listsensor', ':customcamera'
